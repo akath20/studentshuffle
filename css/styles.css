@@ -1,0 +1,47 @@
+#leftContainer {
+
+
+
+}
+
+#rightContainer {
+	
+}
+
+#container {
+	text-align: center;
+	padding: 10px;
+	
+	margin: auto;
+}
+
+.mainContainer {
+	width: 45%;
+	
+	text-align: center;
+	border: black;
+	border-style: solid;
+	border-width: 1px;
+	
+	display: inline-block;
+	padding: 10px;
+}
+
+table {
+	width: 90%;
+	margin-top: 10px;
+	
+}
+
+.divider {
+    position:absolute;
+    left:50%;
+    top:10%;
+    bottom:10%;
+    border-left:1px solid white;
+}
+
+.tableHeader {
+	background-color: lightgray;
+    color: black;
+}
